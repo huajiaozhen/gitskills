@@ -2,4 +2,4 @@
 # gitskillsCreating a new branch is quick & simple.
 =======
 # gitskillsCreating a new branch is quick AND simple.
->>>>>>> feature1
+>>>>>>> feature1 wozhunbeihaole
